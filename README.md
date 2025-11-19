@@ -14,4 +14,3 @@ B.Tech CSE 2nd-year student | Web Developer | Aspiring Cybersecurity Enthusiast
 - HTML | CSS | JavaScript | Python  
 - GitHub | Git | Responsive Design  
 - Basic Cybersecurity Concepts
-
