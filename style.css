@@ -63,3 +63,42 @@ footer {
     padding: 10px 0;
     margin-top: 20px;
 }
+
+/* Certifications styling */
+.cert-grid {
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.cert-card {
+    background: #fff;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    text-align: center;
+    width: 180px;
+}
+
+.cert-card img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 8px;
+}
+
+.cert-title {
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+}
+
+.cert-embed {
+    min-width: 150px;
+}
+
+@media (max-width: 640px) {
+    .container { width: 92%; }
+    .cert-grid { flex-direction: column; align-items: center; }
+}
