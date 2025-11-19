@@ -25,12 +25,3 @@ Interactive embed is shown on the portfolio site in `index.html` (GitHub README 
 ## Live Site
 - GitHub Pages (expected): https://harshkantvardhan-cloud.github.io/Harsh-Portfolio
 
-This repository now includes a GitHub Actions workflow (`.github/workflows/gh-pages.yml`) that will deploy the repository root to the `gh-pages` branch whenever you push to `main`. To trigger deployment, commit and push your changes:
-
-```powershell
-git add .
-git commit -m "Deploy: add GitHub Pages workflow and certification badge"
-git push origin main
-```
-
-After the push the workflow will run; the first run will create the `gh-pages` branch and publish the site. It may take a minute or two for the site to appear at the URL above.
