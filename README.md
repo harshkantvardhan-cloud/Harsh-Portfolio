@@ -20,7 +20,7 @@ B.Tech CSE 2nd-year student | Web Developer | Aspiring Cybersecurity Enthusiast
 
 Badge (visible on GitHub): [![Cisco Networking Badge](https://img.shields.io/badge/Cisco-Networking-blue?logo=cisco)](https://www.credly.com/badges/cc2ba4f6-1d73-4804-b5f6-2f7ea5e60492)
 
-Interactive embed is shown on the portfolio site in `index.html` (GitHub README strips scripts).
+
 
 ## Live Site
 - GitHub Pages (expected): https://harshkantvardhan-cloud.github.io/Harsh-Portfolio
